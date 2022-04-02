@@ -1,4 +1,5 @@
 {
+  "version":"v1.3.1",
   "domain": "xiaomi_miot_raw",
   "name": "Xiaomi MIoT",
   "config_flow": true,
